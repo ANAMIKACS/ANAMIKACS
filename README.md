@@ -19,7 +19,7 @@
 |MCA     | Ethiraj College, Chennai | 2024-26 | currently Pursuing |
 |Bvoc Software Development| Carmel College, Mala |2020-23 | 73.5 |
 |Higher Secondary Certificate (HSC)|G H S S Chembuchira |2018-20 | 79 | 
-|SSLC|P C G H S vELLIKULANGARA| 2018 | 83
+|SSLC|P C G H S VELLIKULANGARA| 2018 | 83
 
 # :computer: Technical Skills
 
