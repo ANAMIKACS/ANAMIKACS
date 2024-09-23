@@ -1,16 +1,8 @@
-![Image]("C:\Users\VICTUS\Pictures\Anamikacs.jpg")
+
 
 #### Hi, I'm ANAMIKA C S
 
-**CHATTUPARAMBIL HOUSE**
-
-**EAST KODALY, THRISSUR, KERALA**
-
-**PH NO : 6282785633**
-
-**Email id : csanamika3@gmail.com**
-
-**LINKEDIN : https://www.linkedin.com/in/anamika-cs-1a99ba265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+**THRISSUR, KERALA**
 
 # :mortar_board: Education 
 
@@ -80,5 +72,6 @@ Programming Languages Known - C, SQL, PHP, HTML, Python
 
 Hobbies - Listening music, Watching Motivational animes, Social Work, Net Surfing
 
+[Linkedin](https://www.linkedin.com/in/anamika-cs-1a99ba265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
   
